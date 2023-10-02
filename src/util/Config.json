@@ -1,0 +1,34 @@
+{
+    "title":"Ganesh Sweets",
+    "description":"With over 30 years of experience in mithai-making, they are super famous across PCMC. They make the absolutely unique Sev ki Barfi, that no one does better in Pune. Other seasonal, artisanal mithais include the Kaju Gajjak that's a mix of Kaju Katli and Gajjak, chunky and crunchy at once! Not to forget the Anjeer Wati filled with assorted nuts, which is one of their finest creations too.",
+    "theme":{
+        "primaryColor":"#3333ff",
+        "secondaryColor":"#b35900",
+        "accentColor":"#ccf5ff"
+    },
+    "services":[
+        {
+            "title":"Dry Fruit and Sweets",
+            "description":" Local dry fruit store in Hadapasar, pune have a wide selection of nuts like cashes nuts, almonds,pistachios etc,and amazing sweets like Soan Papdi,Gulab Jamun,etc",
+            "timing":"All Days : 6am - 11pm"
+        },
+        {
+            "title":"SOUDAMINI MISTANNA BHANDAR",
+            "description":"Soudamini Mistanna Bhandar is one of the most famous and popular Sweet shops in Barabalidanga, Burdwan. Over the years, they've specialised in preparing traditional Indian sweets while maintaining their authentic tastes. They offer fresh sweets at a reasonable price, both traditional and fusion, satisfying the sweet tooth of all ages of consumers.",
+            "timing":"All Days : 6am - 11pm"
+        },
+        {
+            "title":"LANGCHA MAHAL",
+            "description":"For years, people of Shaktigarh, Burdwan are being pampered by high-quality & fresh sweets of Langcha Mahal. They are in touch with some experienced craftsmen who are the main reason for all the sweetness all around. They've reasonable prices while maintaining the authentic tastes.",
+            "timing":"All Days : 6am - 11pm"
+            
+        },
+        {
+            "title":"LANCHA HUT",
+            "description":"Lancha Hut happens to add sweetness to various occasions around Amrah, Burdwan. Their products are freshly produced every day and deliver everything on time. Each sweet has its unique flavour and taste, all within an affordable price range.",
+            "timing":"All Days : 8am - 10pm"
+        }
+
+    ]
+
+}
